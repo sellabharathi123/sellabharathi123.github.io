@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ab0ad3ae.css",
+    "main.js": "/static/js/main.d1c9beec.js",
+    "static/js/787.e577274b.chunk.js": "/static/js/787.e577274b.chunk.js",
+    "static/media/1000_F_178501361_vxSA5zxyotuwlXiuMvXFGzIRi408EZ00.jpg": "/static/media/1000_F_178501361_vxSA5zxyotuwlXiuMvXFGzIRi408EZ00.8e472bfa9816ac93e129.jpg",
+    "static/media/luxury-premium-cover-page-design-for-menu-brochure-card-invitation-template-luxury-ornament-2AXKP7F.jpg": "/static/media/luxury-premium-cover-page-design-for-menu-brochure-card-invitation-template-luxury-ornament-2AXKP7F.31128f194c789fdd33b2.jpg",
+    "static/media/profile.jpg": "/static/media/profile.651e19375f86238625d3.jpg",
+    "index.html": "/index.html",
+    "main.ab0ad3ae.css.map": "/static/css/main.ab0ad3ae.css.map",
+    "main.d1c9beec.js.map": "/static/js/main.d1c9beec.js.map",
+    "787.e577274b.chunk.js.map": "/static/js/787.e577274b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab0ad3ae.css",
+    "static/js/main.d1c9beec.js"
+  ]
+}
